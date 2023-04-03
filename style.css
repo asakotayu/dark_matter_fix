@@ -940,3 +940,13 @@ html .theme-light code.inline, html .theme-light code.inline {
 .theme-dark .container-1um7CU {
     background-color: #0c0e12;
 }
+
+.ctaWrapperTier2-1hk2M8, .tier2-qNjKTW {
+    background: -webkit-gradient(linear,left top,right top,from(var(--premium-tier-2-purple-for-gradients)),color-stop(50%,var(--premium-tier-2-purple-for-gradients-2)),to(var(--premium-tier-2-pink-for-gradients)))!important;
+    background: linear-gradient(90deg,var(--premium-tier-2-purple-for-gradients),var(--premium-tier-2-purple-for-gradients-2) 50%,var(--premium-tier-2-pink-for-gradients))!important;
+}
+
+.ctaWrapperTier0-1GlgHE, .tier0-17mYUd {
+    background: -webkit-gradient(linear,left top,right top,from(var(--premium-tier-0-purple-for-gradients)),color-stop(50%,var(--premium-tier-0-blue-for-gradients-2)),to(var(--premium-tier-0-blue-for-gradients)))!important;
+    background: linear-gradient(90deg,var(--premium-tier-0-purple-for-gradients),var(--premium-tier-0-blue-for-gradients-2) 50%,var(--premium-tier-0-blue-for-gradients))!important;
+}
