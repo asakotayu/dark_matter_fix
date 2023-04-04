@@ -950,3 +950,53 @@ html .theme-light code.inline, html .theme-light code.inline {
     background: -webkit-gradient(linear,left top,right top,from(var(--premium-tier-0-purple-for-gradients)),color-stop(50%,var(--premium-tier-0-blue-for-gradients-2)),to(var(--premium-tier-0-blue-for-gradients)))!important;
     background: linear-gradient(90deg,var(--premium-tier-0-purple-for-gradients),var(--premium-tier-0-blue-for-gradients-2) 50%,var(--premium-tier-0-blue-for-gradients))!important;
 }
+
+.theme-light .container-x8Y1ix {
+    background-color: #fff;
+}
+
+.theme-light .text-md-normal-2rFCH3.subtitle-3m-md1 {
+    color: #000000!important;
+}
+
+.theme-light .close-A4ZfTI, .text-sm-normal-AEQz4v.skip-2hTIXL,
+.theme-light .text-md-normal-2rFCH3.subtitle-1cc8Nz,
+.theme-light .text-xs-bold-9jfMvZ.optionHeader-27AHfD {
+    color: #000000!important;
+}
+
+.theme-light .container-x8Y1ix:hover, .rowContainer-3t7486 {
+    background-color: rgb(0 0 0 / 5%);
+}
+
+.theme-light .rowContainer-3t7486:hover {
+    background-color: rgb(0 0 0 / 10%)
+}
+
+.theme-light .input-m1-Y7Q {
+    background: none;
+}
+
+.theme-light .text-sm-medium-2-Xzsi, .text-sm-normal-AEQz4v {
+    color: #000000!important;
+}
+
+.theme-light .formTitle-2YQyhj {
+    color: #000000!important;
+}
+
+.theme-light .sampleLink-5BWNy9 {
+    color: #4b60b0;
+}
+
+.theme-light .errorMessage-vIHOnc {
+    color: var(--text-danger);
+}
+
+.theme-light .text-md-normal-2rFCH3.subtitle-bIoUVX {
+    color: #000000!important;
+}
+
+.theme-light .uploadIcon-2wV7s_ {
+    color: #414040!important;
+}
