@@ -959,13 +959,13 @@ html .theme-light code.inline, html .theme-light code.inline {
     color: #000000!important;
 }
 
-.theme-light .root-1CAIjD .close-A4ZfTI, .text-sm-normal-AEQz4v.skip-2hTIXL,
+.theme-light .root-1CAIjD .close-A4ZfTI, .theme-light .root-1CAIjD .text-sm-normal-AEQz4v.skip-2hTIXL,
 .theme-light .root-1CAIjD .text-md-normal-2rFCH3.subtitle-1cc8Nz,
 .theme-light .root-1CAIjD .text-xs-bold-9jfMvZ.optionHeader-27AHfD {
     color: #000000!important;
 }
 
-.theme-light .root-1CAIjD .container-x8Y1ix:hover, .rowContainer-3t7486 {
+.theme-light .root-1CAIjD .container-x8Y1ix:hover, .theme-light .root-1CAIjD .rowContainer-3t7486 {
     background-color: rgb(0 0 0 / 5%);
 }
 
@@ -977,7 +977,7 @@ html .theme-light code.inline, html .theme-light code.inline {
     background: none;
 }
 
-.theme-light .root-1CAIjD .text-sm-medium-2-Xzsi, .text-sm-normal-AEQz4v {
+.theme-light .root-1CAIjD .text-sm-medium-2-Xzsi, .theme-light .root-1CAIjD .text-sm-normal-AEQz4v {
     color: #000000!important;
 }
 
